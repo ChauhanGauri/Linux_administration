@@ -1,1 +1,1 @@
-Linux lab assignments
+Linux administration lab assignments
